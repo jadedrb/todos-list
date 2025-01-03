@@ -1,7 +1,7 @@
 # todo-fullstack
 Setup:
 
-To run this project locally, clone to project to your computer. Navigate to the frontend
+To run this project locally, clone the project to your computer. Navigate to the frontend
 folder and run: 
 
 >npm install.  
