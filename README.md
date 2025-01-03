@@ -1,4 +1,31 @@
 # todo-fullstack
+Setup:
+
+To run this project locally, clone to project to your computer. Navigate to the frontend
+folder and run: 
+
+###npm install.  
+
+Then navigate to the backend and run: 
+
+###npm install. 
+
+You'll need a .env file in the backend with:
+
+###MONGO_URL = mongodb+srv:// ...
+
+And one in the frontend with:
+
+###VITE_BASE_URL = http://localhost ...
+
+To run the frontend, navigate to the frontend folder and run: 
+
+###npm run dev.
+
+To run the backend, navigate to backend folder and run: 
+
+###node server
+
 Outline:
 
 I decided to go with a backend and frontend folder approach, but in the same repository. 
