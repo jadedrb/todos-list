@@ -4,27 +4,27 @@ Setup:
 To run this project locally, clone to project to your computer. Navigate to the frontend
 folder and run: 
 
-###npm install.  
+>npm install.  
 
 Then navigate to the backend and run: 
 
-###npm install. 
+>npm install. 
 
 You'll need a .env file in the backend with:
 
-###MONGO_URL = mongodb+srv:// ...
+>MONGO_URL = mongodb+srv:// ...
 
 And one in the frontend with:
 
-###VITE_BASE_URL = http://localhost ...
+>VITE_BASE_URL = http://localhost ...
 
 To run the frontend, navigate to the frontend folder and run: 
 
-###npm run dev.
+>npm run dev.
 
 To run the backend, navigate to backend folder and run: 
 
-###node server
+>node server
 
 Outline:
 
